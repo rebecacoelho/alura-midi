@@ -11,11 +11,3 @@
 O **Midi** é um player de instrumentos desenvolvido em HTML, CSS e JavaScript durante o curso _JavaScript para Web: Crie Páginas Dinâmicas_ da [**Alura**](https://www.alura.com.br).
 
 **Midi** is an instrument player developed with HTML, CSS and JavaScript during the training course _JavaScript for the Web: Creating Dynamic Pages_ from [**Alura**](https://www.alura.com.br).
-
-## ⚙️ Como usar / How to use it
-
-Para usar o player, basta acessar [este link](https://rebecacoelho.github.io/midi-player/) no seu celular ou desktop. Nenhuma instalação é necessária.
-
-To use the player, just visit [this link](https://rebecacoelho.github.io/midi-player/) through your mobile phone or desktop/laptop. No install needed.
-
-_🎵 Enjoy!_
